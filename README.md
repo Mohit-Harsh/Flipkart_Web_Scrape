@@ -1,11 +1,12 @@
 # Flipkart_Web_Scrape
 Scrape 5g smartphone details from Flipkart
-
+```html
 <div align="center">
   <a href="">
-    <img src="images/powerbi.PNG" alt="Logo" width="80" height="80">
+    <img src="images/powerbi.PNG" alt="Logo">
   </a>
 </div>
+```
 To Read the Raw Data scraped from Flipkart run the following code
 ```python
 df = pd.read_json("5gPhones.json")
