@@ -31,8 +31,11 @@ In this project we scraped 30 pages from Flipkart related to 5g smartphones in 2
   df = pd.read_json("5gPhones.json")
   ```
   Sample of Raw Data :
+  [![Raw Data][images/raw_data.PNG]]
   
   To use Cleaned Data read the following Dataset
   ```python
   df = pd.read_csv("5gPhones.csv") 
   ```
+  Sample of Cleaned Data :
+  [![Cleaned Data][images/cleaned_data.PNG]
