@@ -4,7 +4,7 @@ Scrape 5g smartphone details from Flipkart
 
 <div align="center">
   <a href="">
-    <img src="images/powerbi.PNG" alt="Logo">
+    <img src="/images/powerbi.PNG" alt="Logo">
   </a>
 </div>
 
